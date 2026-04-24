@@ -61,8 +61,9 @@ Try the app here:
 
 👉 https://math-reasoning-solver-e.streamlit.app/
 
-![Output 1](https://raw.githubusercontent.com/your-username/your-repo/main/output%20aa.png)
+![Output 1](https://raw.githubusercontent.com/Riitwiik/Math-Reasoning-Solver/main/output%20aa.png)
 
-![Output 2](https://raw.githubusercontent.com/your-username/your-repo/main/outputbb.png)
+![Output 2](https://raw.githubusercontent.com/Riitwiik/Math-Reasoning-Solver/main/outputbb.png)
 
-![Output 3](https://raw.githubusercontent.com/your-username/your-repo/main/outputcc.png)
+![Output 3](https://raw.githubusercontent.com/Riitwiik/Math-Reasoning-Solver/main/outputcc.png)
+
