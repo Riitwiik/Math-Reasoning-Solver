@@ -48,13 +48,21 @@ Groq LLM (Qwen 3-32B)
 
 🧠 Groq API (Qwen 3-32B)
 
+📚 Wikipedia API
+
+🔢 NumExpr
+
+🌿 Dotenv
+
+
 🚀 Live Demo
 
 Try the app here:
 
 👉 https://math-reasoning-solver-e.streamlit.app/
 
+![Output 1](https://raw.githubusercontent.com/your-username/your-repo/main/output%20aa.png)
 
-📚 Wikipedia API
-🔢 NumExpr
-🌿 Dotenv
+![Output 2](https://raw.githubusercontent.com/your-username/your-repo/main/outputbb.png)
+
+![Output 3](https://raw.githubusercontent.com/your-username/your-repo/main/outputcc.png)
