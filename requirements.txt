@@ -1,0 +1,17 @@
+streamlit==1.33.0
+
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.33
+
+langchain-groq==0.1.9
+groq==0.7.0
+
+wikipedia==1.4.0
+python-dotenv==1.0.1
+
+pydantic==2.7.4
+
+numexpr==2.10.0
+httpx==0.24.1
+httpcore==0.17.3
