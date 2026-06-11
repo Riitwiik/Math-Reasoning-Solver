@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain_community.utilities import WikipediaAPIWrapper
 
-# ------------------ SETUP ------------------
+
 
 st.set_page_config(page_title="Math Solver")
 st.title("🧮 Text To Math Problem Solver")
@@ -22,7 +22,7 @@ llm = ChatGroq(
 
 wikipedia_wrapper = WikipediaAPIWrapper()
 
-# ------------------ LOGIC ------------------
+
 
 def is_math_expression(q):
     return bool(re.match(r"^[0-9+\-*/().^ ]+$", q))
@@ -69,7 +69,7 @@ Question: {question}
 
     return response.content
 
-# ------------------ CHAT UI ------------------
+
 
 if "messages" not in st.session_state:
     st.session_state.messages = [
